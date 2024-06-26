@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuepeng Thao</h1>
-<h3 align="center">A passionate frontend developer from Minnesota</h3>
+<h3 align="center">A passionate Data Analyst from Minnesota</h3>
 
 - 📫 How to reach me **Yuepengthao0@gmail.com**
 
